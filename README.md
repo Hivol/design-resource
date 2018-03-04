@@ -1,4 +1,4 @@
-# design-resource
+# Design-Resource
 
 A list of tools & resources for designers.
 
@@ -10,10 +10,11 @@ A list of tools & resources for designers.
 所以，欢迎大家也推荐自己收藏的资源，加入这个项目并一起持续更新么么哒：）*
 
 
-# Basic Material
+## Basic Material
 Most of the time you don't need to draw your own icons, or take your own photos. You just find free stuff online and combine them to create your design. The links below will help you get started:
 
-## Images (free & CC )
+
+### Images (free & CC )
 
 + [Unsplash](https://unsplash.com/) Beautiful high resolution images (and free to use!) 
 
@@ -26,37 +27,43 @@ Most of the time you don't need to draw your own icons, or take your own photos.
   Millions of high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
 
 
-
-## Icons
+### Icons
 
 + http://www.pixellove.com/free-ios-and-android-icons
 + http://www.streamlineicons.com/
 + http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol5
 + https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd
 
-## Fonts
+
+### Fonts
 
 + [whatfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) Chrome plugin to see what fonts are used.
-
++ [FlatIcons](http://flaticons.net/)
++ [Font Awesome](https://fontawesome.com/)
++ [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
 + [Font Squirrel](www.fontsquirrel.com) A lot of the time you can find the font you want.
-
 + [Google Fonts](https://www.google.com/fonts) 
-
 + [Adobe Typekit](https://typekit.com/)
 + [W3C关于纵书的规范](http://www.w3.org/TR/css3-writing-modes/)
 
 
-## Colors
+### Colors
 
 The easiest way to build a color pallete is by sampling colors from an existing image.
 
 + [Dribble designs](https://dribbble.com/colors/66cccc)  If you have a specific color in mind, view this by color.
-
 + [Adobe Kuler Color Wheel](https://kuler.adobe.com/create/color-wheel/)
-
 + [Brand Colors](http://brandcolors.net/)
 
-##  Guidelines
+
+### Color collocation
+
++ [Color Hunt](http://www.colorhunt.co/)
++ [NIPPON COLORS - 日本の伝統色](http://nipponcolors.com/)
++ [配色网](http://www.peise.net/)
+
+
+###  Guidelines
 + [iOS Human Interface Guidelines10](https://developer.apple.com/ios/human-interface-guidelines/)
 
 + iOS Human Interface Guidelines：Designing for iOS 7★（iPhone的设计指南最为经典，当时认真翻译完设计指南，学习别人的思考方式，对我的设计和分析思路有重要的影响）
@@ -74,9 +81,9 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + Android Wear Guidelines
 
 
-# Design Inspirations
+## Design Inspirations
 
-## Blogs
+### Blogs
 
 + https://medium.com/sketch-app
 + http://blog.mengto.com/
@@ -85,7 +92,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + http://osvaldas.info
 + http://www.sketchcasts.net/episodes
 
-## Community 
+### Community 
 **国际上前沿的设计资源才是你应该看看的啊喂！不要在看国内某某搬运过来的啦~**
 + [Dribbble](https://dribbble.com/) 在设计师中非常流行的一个分享设计的社区，每次打开都会有许多让人惊叹的设计。ps求大神赠送邀请码呀~
 + [Behance](https://www.behance.net/) 已经被Adobe收购，更专业的设计网站。
@@ -97,12 +104,12 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 
 + [google art-project](https://www.google.com/culturalinstitute/project/art-project?hl=en-gb) 
 
-# Mobile app designs
+## Mobile app designs
 
 + http://beautifulpixels.com/
 + http://app.itize.us/
 
-## UI Design Patterns
+### UI Design Patterns
 + [ui4app](http://ui4app.com/)按照选项卡、导航条、搜索框等分类，不提供下载源文件，仅供参考
 
 + [方酷](http://www.fondcool.com/)  国内手机 ui 资源下载，主要是psd资源为主
@@ -117,24 +124,23 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [Android 设计模式](http://www.android-app-patterns.com/)
 
 
-  
-## Motion Design Patterns
+
+### Motion Design Patterns
 
 + [动效体验](http://www.michaelvillar.com/motion)
 + [Capptivate](http://capptivate.co/)最全的动效模式。
 
 
 
-## Mockup
+### Mockup
 + [够专业！有魅力的实体模型素材精选](http://www.shejidaren.com/fresh-mockup-psd.html)
 
-## Prototype
-
+### Prototype
 
 -------------
-#Design Tools
+##Design Tools
 
-## Prototype Tools
+### Prototype Tools
 + OmniGraffle
 + Indesign
 + 墨刀
@@ -142,33 +148,33 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + Origami
 + 基于 Quartz Composer 设计的原型工具
 + App Cooker *ipadapp*
-## Keynote & PPT
+### Keynote & PPT
 
 
-## Sketch
+### Sketch
 
-### Tutorials
+#### Tutorials
 
 + http://webdesign.tutsplus.com/categories/sketch
 + [Sketch Guideline(Chinese Version)](http://www.ituring.com.cn/book/1305) Free
 + [Sketch Plugins](http://awesome-sket.ch/)
 + [Chinese Sketch website](http://sketchcn.com/)
 
-### Sketch Resources
+#### Sketch Resources
 + [学习 sketch 的教程](http://www.sketchapp.com/learn/)
 + [sketch中国](http://www.sketchs.cn/index.html)
 + http://www.niudana.com/#sketch
 + http://bohemiancoding.com/sketch/resources/
 + http://www.sketchappsources.com/all-free-sources.html
 
-### Sketch Plug-in
+#### Sketch Plug-in
 + https://github.com/utom/sketch-measure
 + https://github.com/getflourish/Sketch-Style-Inventory
-+ 
++ ​
 
-## Photoshop
+### Photoshop
 
-##移动端利器（iOS为主）
+###移动端利器（iOS为主）
 
 + Design Hunt 有点像是为设计师量身定做的 Feedly。整合了 Dribbble, Wired, Fast Company, Vimeo 等众多大咖小咖渠道的信息，以 News, Article, Inspiration, Typography(版式设计), Apple, iOS App, Product, Architecture 等关键词进行分类。
 
@@ -194,8 +200,8 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 
 + zeeen-dribble第三方客户端，很好看的卡片风格，智能算法当用户在查看不同风格作品的时候，自动将页面的字体、背景色与作品的色调搭配，仿佛将作品融为一体，非常精妙。
 
-# Book List
-##交互设计
+## Book List
+###交互设计
 
 + 启示录 
 + 精益创业实战 (豆瓣)（强烈推荐）
@@ -209,7 +215,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + 赢在用户 
 + 设计沟通十器
 
-###basic
+####basic
 
 + 点石成金 
 + 筑巢引凤：高黏度社会化网站设计秘诀 
@@ -231,7 +237,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 瞬间之美：web界面设计如何让用户心动
 破茧成蝶：用户体验设计师的成长之路
 
-###中级
+####中级
 Designing Interactions
 字体传奇
 文字设计原理
@@ -268,7 +274,7 @@ Design is A Job
 移动互联：用户体验设计指南
 贴心设计：打造高可用性的移动产品
 
-###高级
+####高级
 交互设计—-超越人机交互
 软件观念革命
 A Practical Guide to Information Architecture
