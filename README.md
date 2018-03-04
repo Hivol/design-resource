@@ -33,14 +33,14 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + http://www.streamlineicons.com/
 + http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol5
 + https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd
++ [FlatIcons](http://flaticons.net/)
++ [Font Awesome](https://fontawesome.com/)
++ [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
 
 
 ### Fonts
 
 + [whatfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) Chrome plugin to see what fonts are used.
-+ [FlatIcons](http://flaticons.net/)
-+ [Font Awesome](https://fontawesome.com/)
-+ [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
 + [Font Squirrel](www.fontsquirrel.com) A lot of the time you can find the font you want.
 + [Google Fonts](https://www.google.com/fonts) 
 + [Adobe Typekit](https://typekit.com/)
